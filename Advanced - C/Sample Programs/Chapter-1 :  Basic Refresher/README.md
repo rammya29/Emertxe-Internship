@@ -11,19 +11,19 @@ Lets take refresh of C basis
 |3|C Basic Datatype|[Click Here](https://github.com/rammya29/Emertxe-Internship/tree/main/Advanced%20-%20C/Sample%20Programs/Chapter-1%20:%20%20Basic%20Refresher/Program-3%20:%20DataTypes)|
 |4|Character DataType Handling - Part-1|[Click Here](https://github.com/rammya29/Emertxe-Internship/tree/main/Advanced%20-%20C/Sample%20Programs/Chapter-1%20:%20%20Basic%20Refresher/Program-4%20:%20Char%20datatype%20handling%20-%20P1)|
 |5|Character DataType Handling - Part-2|[Click Here](https://github.com/rammya29/Emertxe-Internship/tree/main/Advanced%20-%20C/Sample%20Programs/Chapter-1%20:%20%20Basic%20Refresher/Program-5%20:%20Char%20datatype%20handling%20-%20P2)|
-|6|C Basic Data Type - Part-1|[Click Here]()|
-|7|C Basic Data Type - Part-2|[Click Here]()|
-|8|C Basic Data Type - Part-3|[Click Here]()|
-|9|C Basic Data Type - Part-4|[Click Here]()|
-|10|Flow Control Statement : If - Part-1 |[Click Here]()|
-|11|Flow Control Statement : If - Part-2 |[Click Here]()|
-|12|Flow Control Statement : If - Part-3 |[Click Here]()|
-|13|Flow Control Statement : Switch - Part-1|[Click Here]()|
-|14|Flow Control Statement : Switch - Part-2|[Click Here]()|
-|15|Flow Control Statement : Switch - Part-3|[Click Here]()|
-|16|Flow Control Statement : Switch - Part-4|[Click Here]()|
-|17|Flow Control Statement : Switch - Part-5|[Click Here]()|
-|18|Flow Control Statement : Switch - Part-6|[Click Here]()|
+|6|C Basic Data Type - Part-1|[Click Here](https://github.com/rammya29/Emertxe-Internship/tree/main/Advanced%20-%20C/Sample%20Programs/Chapter-1%20:%20%20Basic%20Refresher/Program-6%20:%20Basic%20DataType%20-P1)|
+|7|C Basic Data Type - Part-2|[Click Here](https://github.com/rammya29/Emertxe-Internship/tree/main/Advanced%20-%20C/Sample%20Programs/Chapter-1%20:%20%20Basic%20Refresher/Program-7%20:%20Basic%20DataTypes%20-P2)|
+|8|C Basic Data Type - Part-3|[Click Here](https://github.com/rammya29/Emertxe-Internship/tree/main/Advanced%20-%20C/Sample%20Programs/Chapter-1%20:%20%20Basic%20Refresher/Program-8%20:%20Basic%20DataTypes%20-P3)|
+|9|C Basic Data Type - Part-4|[Click Here](https://github.com/rammya29/Emertxe-Internship/tree/main/Advanced%20-%20C/Sample%20Programs/Chapter-1%20:%20%20Basic%20Refresher/Program-9%20:%20Basic%20DataTypes%20-P4)|
+|10|Flow Control Statement : If - Part-1 |[Click Here](https://github.com/rammya29/Emertxe-Internship/tree/main/Advanced%20-%20C/Sample%20Programs/Chapter-1%20:%20%20Basic%20Refresher/Program-10%20:%20Flow%20Control%20-%20If%20-%20P1)|
+|11|Flow Control Statement : If - Part-2 |[Click Here](https://github.com/rammya29/Emertxe-Internship/tree/main/Advanced%20-%20C/Sample%20Programs/Chapter-1%20:%20%20Basic%20Refresher/Program-11%20:%20Flow%20Control%20-%20If%20-%20P2)|
+|12|Flow Control Statement : If - Part-3 |[Click Here](https://github.com/rammya29/Emertxe-Internship/tree/main/Advanced%20-%20C/Sample%20Programs/Chapter-1%20:%20%20Basic%20Refresher/Program-12%20:%20Flow%20Control%20-%20If%20-%20P3)|
+|13|Flow Control Statement : Switch - Part-1|[Click Here](https://github.com/rammya29/Emertxe-Internship/tree/main/Advanced%20-%20C/Sample%20Programs/Chapter-1%20:%20%20Basic%20Refresher/Program-13%20:%20Flow%20Control%20-%20Switch%20-%20P1)|
+|14|Flow Control Statement : Switch - Part-2|[Click Here](https://github.com/rammya29/Emertxe-Internship/tree/main/Advanced%20-%20C/Sample%20Programs/Chapter-1%20:%20%20Basic%20Refresher/Program-14%20:%20Flow%20Control%20-%20Switch%20-%20P2)|
+|15|Flow Control Statement : Switch - Part-3|[Click Here](https://github.com/rammya29/Emertxe-Internship/tree/main/Advanced%20-%20C/Sample%20Programs/Chapter-1%20:%20%20Basic%20Refresher/Program-15%20:%20Flow%20Control%20-%20Switch%20-%20P3)|
+|16|Flow Control Statement : Switch - Part-4|[Click Here](https://github.com/rammya29/Emertxe-Internship/tree/main/Advanced%20-%20C/Sample%20Programs/Chapter-1%20:%20%20Basic%20Refresher/Program-16%20:%20Flow%20Control%20-%20Switch%20-%20P4)|
+|17|Flow Control Statement : Switch - Part-5|[Click Here](https://github.com/rammya29/Emertxe-Internship/tree/main/Advanced%20-%20C/Sample%20Programs/Chapter-1%20:%20%20Basic%20Refresher/Program-17%20:%20Flow%20Control%20-%20Switch%20-%20P5)|
+|18|Flow Control Statement : Switch - Part-6|[Click Here](https://github.com/rammya29/Emertxe-Internship/tree/main/Advanced%20-%20C/Sample%20Programs/Chapter-1%20:%20%20Basic%20Refresher/Program-18%20:%20Flow%20Control%20-%20Switch%20-%20P6)|
 |19|Flow Control Statement : Switch - Part-7|[Click Here]()|
 |20|Flow Control Statement : While|[Click Here]()|
 |21|Flow Control Statement : Do While|[Click Here]()|
