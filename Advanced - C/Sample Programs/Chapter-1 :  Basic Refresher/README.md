@@ -24,25 +24,25 @@ Lets take refresh of C basis
 |16|Flow Control Statement : Switch - Part-4|[Click Here](https://github.com/rammya29/Emertxe-Internship/tree/main/Advanced%20-%20C/Sample%20Programs/Chapter-1%20:%20%20Basic%20Refresher/Program-16%20:%20Flow%20Control%20-%20Switch%20-%20P4)|
 |17|Flow Control Statement : Switch - Part-5|[Click Here](https://github.com/rammya29/Emertxe-Internship/tree/main/Advanced%20-%20C/Sample%20Programs/Chapter-1%20:%20%20Basic%20Refresher/Program-17%20:%20Flow%20Control%20-%20Switch%20-%20P5)|
 |18|Flow Control Statement : Switch - Part-6|[Click Here](https://github.com/rammya29/Emertxe-Internship/tree/main/Advanced%20-%20C/Sample%20Programs/Chapter-1%20:%20%20Basic%20Refresher/Program-18%20:%20Flow%20Control%20-%20Switch%20-%20P6)|
-|19|Flow Control Statement : Switch - Part-7|[Click Here]()|
-|20|Flow Control Statement : While|[Click Here]()|
-|21|Flow Control Statement : Do While|[Click Here]()|
-|22|Flow Control Statement : Do-while Vs While| [Click Here]() |
-|23|Flow Control Statement : For|[Click Here]()|
-|24|Flow Control Statement : goto|[Click Here]()|
-|25|Flow Control Statement : Break - Part-1|[Click Here]()|
-|26|Flow Control Statement : Break - Part-2|[Click Here]()|
-|27|Flow Control Statement : Continue|[Click Here]()|
-|28|Flow Control Statement : Invalid Use|[Click Here]()|
-|29|Flow Control Statement : Nested Loop|[Click Here]()|
-|30|Operators : Arithmetic - Pre and Post - Part-1|[Click Here]()|
-|31|Operators : Arithmetic - Pre and Post - Part-2|[Click Here]()|
-|32|Operators - Type conversion – Implicit – Promotion – Part 1|[Click Here]()|
-|33|Operators - Type conversion – Implicit – Promotion – Part 2|[Click Here]()|
-|34|Operators - Type conversion – Explicit – Demotion|[Click Here]()|
-|35|Operators - Type conversion – Explicit – Promotion|[Click Here]()|
-|36|Operators - Type conversion – Sign bit extension|[Click Here]()|
-|37|Testing of the weight of a variable for TRUE or FALSE|[Click Here]()|
+|19|Flow Control Statement : Switch - Part-7|[Click Here](https://github.com/rammya29/Emertxe-Internship/tree/main/Advanced%20-%20C/Sample%20Programs/Chapter-1%20:%20%20Basic%20Refresher/Program-19%20:%20Flow%20Control%20-%20Switch%20-%20P7)|
+|20|Flow Control Statement : While|[Click Here](https://github.com/rammya29/Emertxe-Internship/tree/main/Advanced%20-%20C/Sample%20Programs/Chapter-1%20:%20%20Basic%20Refresher/Program-20%20:%20Flow%20Control%20-%20While)|
+|21|Flow Control Statement : Do While|[Click Here](https://github.com/rammya29/Emertxe-Internship/tree/main/Advanced%20-%20C/Sample%20Programs/Chapter-1%20:%20%20Basic%20Refresher/Program-21%20:%20Flow%20Control%20-%20Do%20while)|
+|22|Flow Control Statement : Do-while Vs While| [Click Here](https://github.com/rammya29/Emertxe-Internship/tree/main/Advanced%20-%20C/Sample%20Programs/Chapter-1%20:%20%20Basic%20Refresher/Program-22%20:%20Flow%20Control%20-%20Do%20while%20Vs%20While) |
+|23|Flow Control Statement : For|[Click Here](https://github.com/rammya29/Emertxe-Internship/tree/main/Advanced%20-%20C/Sample%20Programs/Chapter-1%20:%20%20Basic%20Refresher/Program-23%20:%20Flow%20Control%20-%20For)|
+|24|Flow Control Statement : goto|[Click Here](https://github.com/rammya29/Emertxe-Internship/tree/main/Advanced%20-%20C/Sample%20Programs/Chapter-1%20:%20%20Basic%20Refresher/Program-24%20:%20Flow%20Control%20-%20Goto)|
+|25|Flow Control Statement : Break - Part-1|[Click Here](https://github.com/rammya29/Emertxe-Internship/tree/main/Advanced%20-%20C/Sample%20Programs/Chapter-1%20:%20%20Basic%20Refresher/Program-25%20:%20Flow%20Control%20-%20Break%20-%20P1)|
+|26|Flow Control Statement : Break - Part-2|[Click Here](https://github.com/rammya29/Emertxe-Internship/tree/main/Advanced%20-%20C/Sample%20Programs/Chapter-1%20:%20%20Basic%20Refresher/Program-26%20:%20Flow%20Control%20-%20Break%20-%20P2)|
+|27|Flow Control Statement : Continue|[Click Here](https://github.com/rammya29/Emertxe-Internship/tree/main/Advanced%20-%20C/Sample%20Programs/Chapter-1%20:%20%20Basic%20Refresher/Program-27%20:%20Flow%20Control%20-%20Continue)|
+|28|Flow Control Statement : Invalid Use|[Click Here](https://github.com/rammya29/Emertxe-Internship/tree/main/Advanced%20-%20C/Sample%20Programs/Chapter-1%20:%20%20Basic%20Refresher/Program-28%20:%20Flow%20Control%20-%20Invalid%20Use)|
+|29|Flow Control Statement : Nested Loop|[Click Here](https://github.com/rammya29/Emertxe-Internship/tree/main/Advanced%20-%20C/Sample%20Programs/Chapter-1%20:%20%20Basic%20Refresher/Program-29%20:%20Flow%20Control%20-%20Nested%20loops)|
+|30|Operators : Arithmetic - Pre and Post - Part-1|[Click Here](https://github.com/rammya29/Emertxe-Internship/tree/main/Advanced%20-%20C/Sample%20Programs/Chapter-1%20:%20%20Basic%20Refresher/Program-30%20:%20OP%20-%20Arithmetic%20-%20Pre%26Post%20-%20P1)|
+|31|Operators : Arithmetic - Pre and Post - Part-2|[Click Here](https://github.com/rammya29/Emertxe-Internship/tree/main/Advanced%20-%20C/Sample%20Programs/Chapter-1%20:%20%20Basic%20Refresher/Program-31%20:%20Op%20-%20Arithmetic%20-%20Pre%26Post%20-%20P2)|
+|32|Operators - Type conversion – Implicit – Promotion – Part 1|[Click Here](https://github.com/rammya29/Emertxe-Internship/tree/main/Advanced%20-%20C/Sample%20Programs/Chapter-1%20:%20%20Basic%20Refresher/Program-32%20:%20Op%20-%20Type%20Conversion%20-%20Implicit%20-%20Promotion%20-%20P1)|
+|33|Operators - Type conversion – Implicit – Promotion – Part 2|[Click Here](https://github.com/rammya29/Emertxe-Internship/tree/main/Advanced%20-%20C/Sample%20Programs/Chapter-1%20:%20%20Basic%20Refresher/Program-33%20:%20Op%20-%20Type%20Conversion%20-%20Implicit%20-%20Promotion%20-%20P2)|
+|34|Operators - Type conversion – Explicit – Demotion|[Click Here](https://github.com/rammya29/Emertxe-Internship/tree/main/Advanced%20-%20C/Sample%20Programs/Chapter-1%20:%20%20Basic%20Refresher/Program-34%20:%20Type%20Conversion%20-%20Explicit%20-%20Demotion)|
+|35|Operators - Type conversion – Explicit – Promotion|[Click Here](https://github.com/rammya29/Emertxe-Internship/tree/main/Advanced%20-%20C/Sample%20Programs/Chapter-1%20:%20%20Basic%20Refresher/Program-35%20:%20Op%20-%20Type%20Conversion%20-%20Explicit%20-%20Promotion)|
+|36|Operators - Type conversion – Sign bit extension|[Click Here](https://github.com/rammya29/Emertxe-Internship/tree/main/Advanced%20-%20C/Sample%20Programs/Chapter-1%20:%20%20Basic%20Refresher/Program-36%20:%20Type%20Conversion%20-%20SignBit)|
+|37|Testing of the weight of a variable for TRUE or FALSE|[Click Here](https://github.com/rammya29/Emertxe-Internship/tree/main/Advanced%20-%20C/Sample%20Programs/Chapter-1%20:%20%20Basic%20Refresher/Program-37%20:%20Testing%20of%20variable)|
 |38|Operators - Logical OR|[Click Here]()|
 |39|Operators - Logical AND|[Click Here]()|
 |40|Operators - Logical NOT|[Click Here]()|
